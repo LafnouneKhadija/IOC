@@ -5,4 +5,4 @@
 <h5>on crée un dossier "Metier" dans laquel on crée une interface "Imetier" , et une classe qui implémente cette interface "metierImpl"></h5>
 
 <h5>Voici l'interface dao</h5>
-<img src="Captures/Capturedao.PNG>
+<img src="Captures/Capturedao.PNG">
