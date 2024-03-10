@@ -1,10 +1,8 @@
 package Metier;
-
 import Dao.Idao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
-
 @Component
 public class metierImpl implements Imetier{
    //prete à fonctionner n'importe quel classe qui implemente l'interface idao
