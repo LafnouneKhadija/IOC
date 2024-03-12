@@ -21,12 +21,9 @@ public metierImpl(Idao dao){
         return res;
     }
 
-
     //pour permettre d'injecter dans la variable dao
     //un objet d'une classe qui implemente l'interface Idao
     //@parm dao
-
-
     public void setDao(Idao dao){
         this.dao = dao;
     }
